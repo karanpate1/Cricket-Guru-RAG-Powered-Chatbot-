@@ -7,7 +7,7 @@ It uses **LangChain**, **ChromaDB**, and **Google Gemini embeddings** to build a
 
 ---
 
-## ✨ Features
+##  Features
 
 *  **RAG pipeline** – retrieves context-aware answers from cricket match data
 *  **Conversational Memory** – remembers previous queries in the session
@@ -27,7 +27,7 @@ It uses **LangChain**, **ChromaDB**, and **Google Gemini embeddings** to build a
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 .
@@ -43,7 +43,7 @@ It uses **LangChain**, **ChromaDB**, and **Google Gemini embeddings** to build a
 
 ---
 
-## 🚀 Setup & Installation
+##  Setup
 
 
 1. **Set up API keys**
